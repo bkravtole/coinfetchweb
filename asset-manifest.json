@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/coinfetchweb/static/js/main.ca913669.js",
+    "static/media/btc.png": "/coinfetchweb/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/coinfetchweb/index.html",
+    "main.ca913669.js.map": "/coinfetchweb/static/js/main.ca913669.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ca913669.js"
+  ]
+}
